@@ -1,0 +1,5 @@
+vosk
+openai-whisper
+torch
+numpy
+scipy
